@@ -280,7 +280,7 @@ const translations = {
     heroTitle: "茶の香りの中で",
     heroSubtitle: "心の平穏を見つける",
     heroDescription:
-      "私たちは人和禅茶体験、ツボ療法、瞑想、クリスタルボウル療法、食事療法、ヨガ養生、心理カウンセリングなど7つの養生サービスを提供し、伝統的な知恵と現代の科学を融合させ、心身の調和を実現します。",
+      "私たちは人和禅茶体験、経絡療法、瞑想、クリスタルボウル療法、食事療法、ヨガ養生、心理カウンセリングなど7つの養生サービスを提供し、伝統的な知恵と現代の科学を融合させ、心身の調和を実現します。",
     startJourney: "養生の旅を始める",
     learnMore: "詳しくはこちら",
     bookConsultation: "予約する",
@@ -383,8 +383,8 @@ const translations = {
   en: {
     siteName: "HitoWa Zen Tea Wellness",
     tagline: "Traditional Wellness · Modern Life",
-    heroTitle: "Amidst the Aroma of Tea",
-    heroSubtitle: "Find Inner Peace",
+    heroTitle: "Find Inner Peace",
+    heroSubtitle: "Amidst the Aroma of Tea",
     heroDescription:
       "We provide HitoWa Zen Tea experiences, acupressure therapy, meridian therapy, crystal bowl therapy, nutritional guidance, yoga wellness, and psychological counseling. Combining traditional wisdom with modern science, we offer a journey towards mind-body harmony.",
     startJourney: "Start Your Wellness Journey",
